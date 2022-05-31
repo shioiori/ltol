@@ -8,7 +8,7 @@ const ll mod = 1e9+7;
 #define dearr(v) {for (auto i:v) cout << i << " "; cout << endl;}
 
 int main(){
-	ios::sync_with_stdio(false);
+    ios::sync_with_stdio(false);
     cin.tie(0);
     int n;
     cin >> n;
